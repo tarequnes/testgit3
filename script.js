@@ -1,12 +1,24 @@
 const quotes = [
-  "Success starts with discipline.",
-  "Small steps every day lead to big results.",
-  "Je fleuris dans le carnage comme une fleur à l'aube.",
-  "Do not wait for motivation. Build habits.",
-  "Hard times create strong people.",
-  "Your future is created by what you do today.",
-  "Confidence comes from keeping promises to yourself.",
-  "Dream big, start small, stay consistent."
+  "Master yourself, master the enemy.", // Lee Sin
+  "Only a fool plays the hand he's dealt.", // Twisted Fate
+  "Death is like the wind — always by my side.", // Yasuo
+  "What is broken can be reforged.", // Riven
+  "The darker the night, the brighter the stars.", // Braum
+  "It is not why we fight, but who we fight for.", // Pantheon
+  "We are what we overcome.", // Pantheon
+  "They are not ready to face me.", // Mordekaiser
+  "Iron stands eternal.", // Mordekaiser
+  "Love is a curse that I will not endure alone.", // Viego
+  "I am the reaper of my own destiny.", // Kayn (inspired tone)
+  "The unseen blade is the deadliest.", // Zed
+  "Balance is a fool’s master.", // Zed
+  "Time is wasted on the weak.", // Ekko (tone-inspired)
+  "It's not how much time you have, it's how you use it.", // Ekko
+  "Art requires a certain cruelty.", // Jhin
+  "In carnage, I bloom, like a flower in the dawn.", // Jhin
+  "They fear me because I am a man, not a god.", // Pantheon
+  "The world is cruel, but I choose to endure it.", // Kindred (inspired tone)
+  "Every life ends. But how we live is what matters." // Kindred (inspired tone)
 ];
 
 const quoteElement = document.getElementById("quote");
